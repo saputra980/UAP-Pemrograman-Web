@@ -12,4 +12,4 @@ Pembagian Tugas :
 
 
 
-Link Hosting App Web : simple-uapweb.epizy.com
+Link Hosting App Web : http://simple-uapweb.epizy.com/
